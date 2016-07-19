@@ -1,0 +1,12 @@
+ul.nav
+{
+list-style-type: none;
+margin:60;
+padding:500;
+
+}
+li.nav {
+	display:inline;
+	: 15px;
+}
+
